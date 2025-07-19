@@ -1,0 +1,24 @@
+git init
+git config user.name "nombre"
+gir config user.email correo
+git status
+git add "nombre de la carpeta a guardar"
+git commit -m"mensaje de recortadorio"
+git add .
+git log
+git checkout "código hex"
+git checkout master
+git clone "código del readme"
+cd "nombre del archivo"/
+git config --global user.name "nombre"-"para uso personal"
+fit config --global user.email "correo"-"para uso personal"
+git push origin main "en vez de main el nombre de la rama"
+git config --list --show-origin
+git remote -v "veficacion configuración del remoto"
+git branch -r 
+git checkout -b main
+git remote set-url origin "URL DEL REMOTO"	
+gitHub.com/0ingmar0/documentos-importantes
+GitHub.com/mauricioriva/curso-java/tree/master/1-Java-Basico
+
+
